@@ -284,6 +284,7 @@ Jobs
   margin: 0 auto;
   margin-top: 3rem;
 }
+
 .btn:hover {
   color: var(--clr-primary-1);
   background: var(--clr-primary-8);
